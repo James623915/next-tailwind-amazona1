@@ -1,3 +1,14 @@
+# Try to post an order on this app.
+https://next-tailwind-amazona1.vercel.app
+signin for this amazona1 account
+login: admin@example.com
+password: 123456
+
+Choose PayPal to pay with
+Paypal sandbox account
+Email ID: sb-ofvmt17436145@personal.example.com
+Password: eEo4^>eD
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
