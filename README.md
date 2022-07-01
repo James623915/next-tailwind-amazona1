@@ -1,3 +1,7 @@
+# Credit to Mr. Basir Jafarzadeh
+I learn from his remarkable class on youtube https://github.com/basir/next-tailwind-amazona 
+I am really appreciate his contributions and hardwork.
+
 # Try to post an order on this app.
 https://next-tailwind-amazona1.vercel.app
 signin for this amazona1 account
